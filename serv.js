@@ -1,7 +1,7 @@
-//= require bootstrap
-//= require jquery
-//= require jquery_ujs
-//= require jquery-ui
+var a = require('bootstrap')
+//var k = require jquery
+//var t = require jquery_ujs
+//var j = require jquery-ui
 
 var app = require('express')(),
     server = require('http').createServer(app),

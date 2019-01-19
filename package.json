@@ -4,6 +4,7 @@
   "description": "",
   "main": "serv.js",
   "dependencies": {
+    "bootstrap": "^4.2.1",
     "express": "^4.16.4",
     "http": "^0.0.0",
     "socket.io": "^2.2.0"
