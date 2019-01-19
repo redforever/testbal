@@ -1,24 +1,25 @@
 {
-  "name": "bougercerclenodejs",
+  "name": "testbal2",
   "version": "1.0.0",
   "description": "",
   "main": "serv.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "http": "^0.0.0",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "node serv.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/redforever/balonBouge.git"
+    "url": "git+https://github.com/redforever/ballonTest2.git"
   },
   "author": "red red",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/redforever/balonBouge/issues"
+    "url": "https://github.com/redforever/ballonTest2/issues"
   },
-  "homepage": "https://github.com/redforever/balonBouge#readme",
-  "dependencies": {
-    "express": "^4.16.4",
-    "http": "0.0.0",
-    "socket.io": "^2.2.0"
-  }
+  "homepage": "https://github.com/redforever/ballonTest2#readme"
 }
