@@ -1,4 +1,4 @@
-var a = require('bootstrap')
+var a = require('bootstrap');
 //var k = require jquery
 //var t = require jquery_ujs
 //var j = require jquery-ui
