@@ -1,6 +1,12 @@
+//= require bootstrap
+//= require jquery
+//= require jquery_ujs
+//= require jquery-ui
+
 var app = require('express')(),
     server = require('http').createServer(app),
     io = require('socket.io').listen(server);
+  
 
 var port = process.env.PORT || 8080;
 
